@@ -86,8 +86,8 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
+- &#x2705 (7/24/25) [Prerequisites](#prerequisites)
+- &#x2705 (7/24/25) [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
